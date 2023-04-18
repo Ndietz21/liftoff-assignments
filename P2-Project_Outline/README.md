@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A system to track items, including the quantity on hand, that will allow users to search and filter for specific items by either part number, serial number, name or other various specifications. This will allow users to locate the items within the warehouse/store.
 ### Features
-Include Features here
+-user login
+-Search
+-CRUD
+-Authentication
+-Authorization
 ### Technologies
-Include Technologies here
+-Java
+-React
+-Jest
+-MySQL
+-SpringBoot
+-JUnit
+-ESLint
+-Code Spellchecker
 ### What I'll Have to Learn
-Include what you will need to learn here
+-Reract
+-Authentication
+-Authorization
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Ih9SNY9R/kanban-template

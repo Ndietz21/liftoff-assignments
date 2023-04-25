@@ -10,6 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 <ul>
 <li>https://app.diagrams.net/?libs=general;flowchart</li>
+<li>https://drive.google.com/file/d/1iGWItn5UdmL2qw9uy_pDbxI39AnFGps6/view?usp=sharing</li>
 </ul>
 
 ### Project Tracker

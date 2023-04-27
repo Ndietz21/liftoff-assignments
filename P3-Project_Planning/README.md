@@ -19,4 +19,4 @@ https://trello.com/b/Ih9SNY9R/kanban-template
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/LiftOff-Nymphaea?tab=repositories
